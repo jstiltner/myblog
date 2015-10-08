@@ -1,0 +1,79 @@
+a:visited{
+  color:black;
+}
+
+body{
+  font-family: 'Tangerine', serif;
+  text-align: center;
+  background-image: url(http://i162.photobucket.com/albums/t272/SniperFoxx/WEBACK.jpg);
+  font-family: Helvetica, arial, courier;
+  background color: gray;
+}
+
+#my-header > .navigation > .bordered{
+  background-color: goldenrod;
+  float: right;
+  font-size: 18px;
+  width: 100px;
+  padding: 5px 10px;
+  margin: 3px 8px 0 10px;
+  text-align: center;
+  cursor: pointer;
+  text-decoration: underline;
+}
+
+.white{
+  background-color: white;
+}
+
+#my-header > .navigation > .bordered:hover{
+  background-color: white
+}
+ 
+img {
+        height: 300px;
+        width: 300px;
+        object-fit: contain;
+    }
+
+
+.float-right{
+  float:right
+   
+}
+.float-left{
+  float:left
+}
+
+.margin-bottom {
+  margin: 0 0 180px 0;
+}
+
+.cleared{
+  clear: both;
+}
+
+.blog-title {
+  color:purple;
+  margin-bottom: 50px;
+}
+.center-align {
+  text-align: center;
+}
+.bordered {
+  border: 1px dotted black;
+  border-radius: 10px;
+  padding: 5px;
+  font-weight: bold;
+  background color: white
+
+    
+}
+
+.large{
+  font-size: 40px
+}
+
+.yellow{
+  background-color: yellow;
+}
